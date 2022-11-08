@@ -22,7 +22,7 @@ POST
 |logname           |string	|否|锚点目录名，默认：“本文目录”|
 |order         	|int	|否|增加序列号， 默认值：0，1/开启|
 |h2            	|int	|否|保留h2标签， 默认值：0，1/开启|
-|class         	|string	|否|自定义class样式名， 默认值：“zltheme”|
+|class         	|string	|否|自定义class样式名， 默认值：“lycecho”|
 |twoTyle           |int	|否|启用双标题，默认：0/关闭，1/开启（需自定义符号）   |
 |topParagraph      |string	|否|自定义首段落“{主关键词}”，“{副关键词}”|
 |endParagraph      |string	|否|自定义尾段落“{主关键词}”，“{副关键词}”|
